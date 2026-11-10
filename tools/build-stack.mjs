@@ -1,4 +1,4 @@
-// Membangun assets/tech-marquee.svg — deretan ikon yang melayang dan bergerak
+// Membangun assets/marquee.svg — deretan ikon yang melayang dan bergerak
 // ke samping tanpa henti (marquee mulus: tanpa ujung, tanpa layar kosong).
 // Jalankan: node tools/build-stack.mjs
 //
@@ -75,9 +75,11 @@ const ICONS = [
   ["godotengine", "#478CBF"],
 ];
 
-const SIZE = 44;
-const GAP = 32;
-const HEIGHT = 88;
+const SIZE = 48;
+const GAP = 34;
+const HEIGHT = 92;
+// lebar kanvas: makin kecil, ikon makin besar saat ditampilkan selebar README
+const VIEW_W = 900;
 const PADDING_Y = (HEIGHT - SIZE) / 2;
 const STRIDE = SIZE + GAP;
 
@@ -135,7 +137,7 @@ const buildRow = (offsetX) =>
 const contentWidth = ICONS.length * STRIDE;
 const duration = Math.round(contentWidth / 62); // ±62 px per detik
 
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="${HEIGHT}" viewBox="0 0 1200 ${HEIGHT}" role="img" aria-label="Yang sedang dipelajari: ${ICONS.map(([s]) => s).join(", ")}">
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${VIEW_W}" height="${HEIGHT}" viewBox="0 0 ${VIEW_W} ${HEIGHT}" role="img" aria-label="Yang sedang dipelajari: ${ICONS.map(([s]) => s).join(", ")}">
   <style>
     @keyframes sl-drift {
       from { transform: translateX(0px); }
@@ -160,10 +162,10 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="${HEIG
 `;
 
 await mkdir(join(ROOT, "assets"), { recursive: true });
-await writeFile(join(ROOT, "assets", "tech-marquee.svg"), svg, "utf8");
+await writeFile(join(ROOT, "assets", "marquee.svg"), svg, "utf8");
 
 console.log(
-  `assets/tech-marquee.svg — ${ICONS.length} ikon (${ICONS.length * 2} digambar), ` +
+  `assets/marquee.svg — ${ICONS.length} ikon (${ICONS.length * 2} digambar), ` +
     `satu baris ${contentWidth}px, durasi ${duration}s, ` +
     `${(Buffer.byteLength(svg) / 1024).toFixed(1)} KB`
 );

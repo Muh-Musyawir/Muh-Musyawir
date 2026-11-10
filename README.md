@@ -23,7 +23,7 @@ Tempat saya belajar pemrograman sambil membangun hal-hal kecil — latihan, eksp
 ### Sedang dipelajari
 
 <div align="center">
-<img src="assets/tech-marquee.svg" alt="Yang sedang dipelajari" width="100%" />
+<img src="assets/marquee.svg" alt="Yang sedang dipelajari" width="100%" />
 </div>
 
 <br />
