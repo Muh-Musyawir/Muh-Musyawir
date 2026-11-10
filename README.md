@@ -2,10 +2,6 @@
 
 <img src="assets/header.svg" alt="Muh. Musyawir Aldino" width="100%" />
 
-<a href="https://github.com/Muh-Musyawir">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1200&amp;color=1F6FEB&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Sedang+belajar;Mencoba+hal+baru;Belajar+dengan+membangun;Menulis+apa+yang+dipelajari" alt="Typing SVG" />
-</a>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=Muh-Musyawir&amp;style=flat-square&amp;color=1f6feb&amp;label=views" />
 </p>
