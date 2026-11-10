@@ -29,7 +29,7 @@
   <path d="M0,204 C220,174 400,232 620,204 C840,176 1010,228 1200,200 L1200,240 L0,240 Z" fill="url(#accent)" fill-opacity="0.16" />
   <path d="M0,222 C240,198 420,244 640,222 C860,200 1020,240 1200,216 L1200,240 L0,240 Z" fill="#0d1117" fill-opacity="0.92" />
 
-  <text x="80" y="110" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" letter-spacing="0.5">Muh. Musyawir Aldino</text>
+  <text x="80" y="110" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" letter-spacing="0.5">Muh. Musyawir</text>
   <text x="82" y="150" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" fill="#8b949e" letter-spacing="0.3">Belajar dengan membangun</text>
   <rect x="80" y="170" width="88" height="4" rx="2" fill="url(#accent)" />
 </svg>
