@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Muh. Musyawir Aldino — Student, Web and Mobile Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="55%" stop-color="#101b2d" />
+      <stop offset="100%" stop-color="#0d2a4d" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1f6feb" />
+      <stop offset="100%" stop-color="#58a6ff" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bg)" />
+
+  <g stroke="#58a6ff" stroke-opacity="0.07" stroke-width="1">
+    <line x1="120" y1="0" x2="120" y2="240" />
+    <line x1="240" y1="0" x2="240" y2="240" />
+    <line x1="360" y1="0" x2="360" y2="240" />
+    <line x1="480" y1="0" x2="480" y2="240" />
+    <line x1="600" y1="0" x2="600" y2="240" />
+    <line x1="720" y1="0" x2="720" y2="240" />
+    <line x1="840" y1="0" x2="840" y2="240" />
+    <line x1="960" y1="0" x2="960" y2="240" />
+    <line x1="1080" y1="0" x2="1080" y2="240" />
+  </g>
+
+  <path d="M0,186 C200,150 380,216 600,186 C820,156 1000,212 1200,176 L1200,240 L0,240 Z" fill="#0b1524" fill-opacity="0.9" />
+  <path d="M0,204 C220,174 400,232 620,204 C840,176 1010,228 1200,200 L1200,240 L0,240 Z" fill="url(#accent)" fill-opacity="0.16" />
+  <path d="M0,222 C240,198 420,244 640,222 C860,200 1020,240 1200,216 L1200,240 L0,240 Z" fill="#0d1117" fill-opacity="0.92" />
+
+  <text x="80" y="110" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" letter-spacing="0.5">Muh. Musyawir Aldino</text>
+  <text x="82" y="150" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" fill="#8b949e" letter-spacing="0.3">Student · Web &amp; Mobile Developer</text>
+  <rect x="80" y="170" width="88" height="4" rx="2" fill="url(#accent)" />
+</svg>

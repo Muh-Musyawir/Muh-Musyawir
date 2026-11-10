@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:1f6feb&amp;height=190&amp;section=header&amp;text=Muh.%20Musyawir%20Aldino&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Student%20%7C%20Web%20%26%20Mobile%20Developer&amp;descAlignY=56&amp;descSize=15" width="100%" />
+<img src="https://raw.githubusercontent.com/Muh-Musyawir/Muh-Musyawir/main/assets/banner.svg" alt="Muh. Musyawir Aldino — Student, Web &amp; Mobile Developer" width="100%" />
 
 <a href="https://github.com/Muh-Musyawir">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=1F6FEB&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Web+Developer;Flutter+Mobile+Developer;Network+%26+Security+Enthusiast;Selalu+belajar+hal+baru" alt="Typing SVG" />
@@ -56,4 +56,4 @@ Mahasiswa yang senang membongkar cara kerja sesuatu — dari membangun antarmuka
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1f6feb,100:0d1117&amp;height=120&amp;section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/Muh-Musyawir/Muh-Musyawir/main/assets/footer.svg" alt="" width="100%" />
