@@ -23,7 +23,7 @@ Tempat saya belajar pemrograman sambil membangun hal-hal kecil — latihan, eksp
 ### Sedang dipelajari
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,php,python,dart,flutter,html,css,mysql,sqlite,git,github,linux,cloudflare,blender,vscode&amp;theme=dark" />
+<img src="assets/stack.svg" alt="Yang sedang dipelajari" width="100%" />
 </div>
 
 <br />
