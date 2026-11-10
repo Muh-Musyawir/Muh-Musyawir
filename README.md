@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Muh. Musyawir Aldino" width="100%" />
+<img src="assets/header.svg" alt="Muh. Musyawir" width="100%" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Muh-Musyawir&amp;style=flat-square&amp;color=1f6feb&amp;label=views" />
