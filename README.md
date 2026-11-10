@@ -33,8 +33,6 @@ Tempat saya belajar pemrograman sambil membangun hal-hal kecil — latihan, eksp
 <div align="center">
 
 <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
-<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
 <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 
