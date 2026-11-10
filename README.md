@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Muh-Musyawir/Muh-Musyawir/main/assets/banner.svg" alt="Muh. Musyawir Aldino — Student, Web &amp; Mobile Developer" width="100%" />
+<img src="assets/banner.svg" alt="Muh. Musyawir Aldino" width="100%" />
 
 <a href="https://github.com/Muh-Musyawir">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=1F6FEB&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Web+Developer;Flutter+Mobile+Developer;Network+%26+Security+Enthusiast;Selalu+belajar+hal+baru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1200&amp;color=1F6FEB&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Sedang+belajar;Mencoba+hal+baru;Belajar+dengan+membangun;Menulis+apa+yang+dipelajari" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-0d1117?style=flat-square&amp;logo=github&amp;logoColor=1f6feb" />
   <img src="https://komarev.com/ghpvc/?username=Muh-Musyawir&amp;style=flat-square&amp;color=1f6feb&amp;label=views" />
 </p>
 
@@ -17,15 +16,15 @@
 
 ### Tentang
 
-Mahasiswa yang senang membongkar cara kerja sesuatu — dari membangun antarmuka sampai memahami apa yang terjadi di balik layar.
+Tempat saya belajar pemrograman sambil membangun hal-hal kecil — latihan, eksperimen, dan catatan selama prosesnya.
 
-- Fokus: **web app**, **mobile app (Flutter)**, dan **jaringan & keamanan**.
-- Lebih suka membuat sesuatu yang benar-benar dipakai daripada prototype yang berhenti di lokal.
-- Sedang mengerjakan **SecondLife** — marketplace barang bekas mahasiswa, dari frontend sampai backend (Cloudflare Worker + D1).
+- Sebagian besar isi repo di sini adalah proses belajar, bukan proyek yang sudah selesai.
+- Belum memilih satu bidang; sedang mencoba beberapa hal sekaligus.
+- Kalau ada yang salah atau bisa lebih baik, koreksinya diterima.
 
 <br />
 
-### Stack
+### Sedang dipelajari
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,php,python,dart,flutter,html,css,mysql,sqlite,git,github,linux,cloudflare,blender,vscode&amp;theme=dark" />
@@ -37,11 +36,11 @@ Mahasiswa yang senang membongkar cara kerja sesuatu — dari membangun antarmuka
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Muh-Musyawir/Muh-Musyawir/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-<img src="https://raw.githubusercontent.com/Muh-Musyawir/Muh-Musyawir/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/Muh-Musyawir/Muh-Musyawir/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/Muh-Musyawir/Muh-Musyawir/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/Muh-Musyawir/Muh-Musyawir/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 
 </div>
 
@@ -56,4 +55,4 @@ Mahasiswa yang senang membongkar cara kerja sesuatu — dari membangun antarmuka
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Muh-Musyawir/Muh-Musyawir/main/assets/footer.svg" alt="" width="100%" />
+<img src="assets/footer.svg" alt="" width="100%" />
